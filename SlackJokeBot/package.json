@@ -1,0 +1,17 @@
+{
+  "name": "slackjokebot",
+  "version": "1.0.0",
+  "description": "SlackBot that tells random jokes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vineet Prasad Verma",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "moment": "^2.24.0",
+    "mongoose": "^5.8.1",
+    "slackbots": "^1.2.0"
+  }
+}
